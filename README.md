@@ -1,10 +1,10 @@
 Link to [Star-Wars-Crawl]( https://marcoarata.github.io/Star-Wars-Crawl/)
 
 # Star Wars
-Type of challenge: learning
-Duration: **120 min**
-Deployment strategy: **Github page**
-Team challenge: **2**
+* Type of challenge: learning
+* Duration: **120 min**
+* Deployment strategy: **Github page**
+* Team challenge: **2**
 
 ![star wars intro](https://github.com/luisromeroaraya/marco/blob/master/1.The-Field/4.HTML-CSS/introduction/images/star-wars.jpg)
 
