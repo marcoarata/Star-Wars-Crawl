@@ -6,7 +6,7 @@ Duration: **120 min**
 Deployment strategy: **Github page**
 Team challenge: **2**
 
-[star wars intro](https://github.com/luisromeroaraya/marco/blob/master/1.The-Field/4.HTML-CSS/introduction/images/star-wars.jpg)
+![star wars intro](https://github.com/luisromeroaraya/marco/blob/master/1.The-Field/4.HTML-CSS/introduction/images/star-wars.jpg)
 
 ## Learning objectives
 At the end of this challenge you should be able to:
